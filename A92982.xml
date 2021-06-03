@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall letters of complaint from the northern parts of this kingdom. Setting forth the barbarous cruelty and inhumanity of the Scotch Army, in destroying whole families, and towns, and carrying away all manner of portable goods, and driving away all forts of cattle into the kingdome of Scotland. Also their murthering of women in child-bed and robbing parents of thier deer children, more barbarously then the Irish rebels. To which is added a declaration of the county of Yorke thereupon, concerning their rising, (from the age of 16 to 60) as one man, to supresse these treacherous invadors, and secure themselves from utter ruin.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92982</idno><idno type="EEBO-CITATION">99864521</idno>
+  <idno type="VID">162114</idno>
+  <idno type="EEBO-PROQUEST">2240904043</idno>
+  
+            <idno type="STC">Wing S2777</idno>
+            <idno type="STC">Thomason E459_7</idno>
+            <idno type="STC">ESTC R205080</idno>
+            <idno type="PROQUEST">99864521</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864521e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92982)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162114)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E459[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall letters of complaint from the northern parts of this kingdom. Setting forth the barbarous cruelty and inhumanity of the Scotch Army, in destroying whole families, and towns, and carrying away all manner of portable goods, and driving away all forts of cattle into the kingdome of Scotland. Also their murthering of women in child-bed and robbing parents of thier deer children, more barbarously then the Irish rebels. To which is added a declaration of the county of Yorke thereupon, concerning their rising, (from the age of 16 to 60) as one man, to supresse these treacherous invadors, and secure themselves from utter ruin.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug. 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Scotland. --  Army --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Yorkshire (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162114:1"/>
+            <p>Severall Letters of Complaint from the <hi>Northern parts of this Kingdom.</hi>
+            </p>
+            <p>Setting forth the Barbarous cruelty and inhumanity of the Scotch Army, in destroying whole Families, and Towns, and carrying away all manner of portable goods, and driving away all sorts of Cattle into the <hi>Kingdome of SCOTLAND.</hi>
+            </p>
+            <p>Also their murthering of women in child-bed and robbing Parents of their deer children, more barbarously then the Irish Rebels.</p>
+            <p>To which is added a DECLARATION OF THE County of <hi>Yorke</hi> thereupon, con<g ref="char:EOLhyphen"/>cerning their rising, (from the age of 16 to 60) as one man, to suppresse these treacherous Inva<g ref="char:EOLhyphen"/>dors, and secure themselves from Utter Ruin.</p>
+            <p>London, Printed by <hi>J. M.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162114:2"/>
+            <pb n="3" facs="tcp:162114:2"/>
+            <head>
+               <hi>To their honored frends the Committee of the</hi> County <hi>of</hi> Lancaster, <hi>now at</hi> Manchester, <hi>these.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>IN ours yesterday to Sir <hi>Richard Hoghton</hi> we gave you a short Character of the Scots Army now quartered all along the Borders of our County, both on the <hi>Lancashire</hi> and <hi>Westmerland</hi> side: Truly what we said of them yesterday, was but the expressing the Delineaments of <hi>Hercules</hi> by the Foot; We spare to spake the worst of them, least we should forfeit that credence you have towards us, and not be believed; but assure your selves, they by there dayly incursions into our poor Country, between this and their quarters have left nothing in all the world that is portable; in divers places some whole families have not left them wherewith to subsist a day, but are glad to come hither for meer subsistance; they have taken forth of divers families all, the very rackencrooks and pothooks; they have driven away all the beasts, sheep, and horses in divers whole Townships, all without redemption save some poor milch-kine: They tell the people they must have their houses too, and we verily beleeve it must be so, because <hi>Duke Hamilton</hi> hath told them it should be so: Their usage of some women is extreamly abominable, and of men very barbarous, wherein we apprehend, nevertheless, some<g ref="char:EOLhyphen"/>thing of Gods Justice towards very many, who have abundantly desired and rejoyced in their advance hi<g ref="char:EOLhyphen"/>ther: Old extream Cavaliers, whom (above and be<g ref="char:EOLhyphen"/>yond all others) they have most oppressed in their
+<pb n="4" facs="tcp:162114:3"/> acts of violence and plunder to our great admiration. They rail without measure against our <hi>Lacashire Mi<g ref="char:EOLhyphen"/>nisters,</hi> and profess the destruction of so many as they can get; many Cavaliers have sent into <hi>Furness,</hi> and <hi>Cartmel</hi> to Sir <hi>Thomas Tilsley</hi> for Protections, but the Scors weigh not their Protections a rush, and <hi>Tilsley</hi> himself tells the Cavaliers he can do them no good▪ but wishes them to use their best shifts in putting their goods out of the way; they say they'le not leave the County wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th any thing; they make no account of <hi>Lambert,</hi> (as they call him,) they say he is run away: They are yet in quarters at <hi>Burton, Kirkbie, Whittington, Greshingham, Barwick,</hi> and <hi>Leighten,</hi> and the English in <hi>Encross</hi> and <hi>Furness;</hi> They have driven away above 600. Cattel, and above 1500. sheep, they have given such earnest of their conditions, that the Country have wholly driven away their cattel of all sorts towards <hi>Yorkshire,</hi> and the bottom of <hi>Lancashire;</hi> forty great droves, at least, are gone from us, and through this Town this day. But we hope this sad destraction will shortly cleer up by the timely con<g ref="char:EOLhyphen"/>junction of our Forces, and by the cheerful rising of our Country all over; whereof we are assured they never stood half so much need, for all the sufferings they have endured. We pray you let us know the state of things in relation to the business of the North, and we shall not fail to give you accompt of what we dayly learn, concerning the enemies motion or design, wherein, or in any thing else within the compass of our endeavours, we shall desire to be,</p>
+            <closer>
+               <signed>Your most assured and ready friends to serve you▪
+<list>
+                     <item>Henry Porter.</item>
+                     <item>W. VVest.</item>
+                  </list>
+               </signed>
+               <dateline>Lancast. <date>7. August. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:162114:3"/>
+            <head>
+               <hi>Manchester 11. of August,</hi> 1648.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>FOR News it grows worse and worse dayly a<g ref="char:EOLhyphen"/>mongst us; the Scotch and English Cavaliers are now within a mile of <hi>Lancaster,</hi> and so quarter all over the Country as far as <hi>Hornby, Barwick, Lons<g ref="char:EOLhyphen"/>don▪ Burton,</hi> and some part of <hi>Raishton, Grange, Kerby,</hi> and <hi>Glatborn,</hi> they use the people with far greater cruelty then any Army yet heard of in these parts; they take and carry away into their own Country all manner of moveable Goods, quick and dead; they take young children from their mothers, and either kill them or sell them again to their own Parents for good sums of money; they have burnt one or two women in childbed about <hi>Hornby;</hi> they plunder all Papists and Protestants, friends and foes.</p>
+            <trailer>An Extract taken out of Sir <hi>Ralph Ashtons</hi> Letter.</trailer>
+         </div>
+         <div type="report">
+            <pb n="6" facs="tcp:162114:4"/>
+            <head>
+               <hi>By the Committee of the Militia for the</hi> County <hi>of</hi> York.</head>
+            <p>WE being Assigned and Autho<g ref="char:EOLhyphen"/>rized by Authority of Parlia<g ref="char:EOLhyphen"/>ment, for the raising of Forces within this County, for suppressing of Invasi<g ref="char:EOLhyphen"/>ons and Insurrections within the same, do (ac<g ref="char:EOLhyphen"/>cording to our duty both to God and our Country) Declare and Publish to all Inhabi<g ref="char:EOLhyphen"/>tants of this County, that at this present time whilest the Parliament is busied about setling the Peaceable Government of the Kingdom in the true Protestant Religion, and according to the just Rights both of King and People, (being the true scope and end of the Parlia<g ref="char:EOLhyphen"/>ments Endeavors,) a most wicked Confedra<g ref="char:EOLhyphen"/>cy of Papists, and other ill-affected and evil-disposed persons of discontented spirits, and desperate fortunes, envying at the growing settlement of the Peace of this Nation, have joyned with an Army of Scotland, who have (contrary to the minds and desires of many wel-affected of that Nation, yea even of the general Assembly of Divines of that King, by them published in print, seriously advising to
+<pb n="7" facs="tcp:162114:4"/> the contrary;) invaded this Kingdom in a hostile manner with an Army out of Scotland, which Army is by the Commons of England in Parliament publikely declared to be ene<g ref="char:EOLhyphen"/>mies, and all such as adhere unto them, or as<g ref="char:EOLhyphen"/>sist them, Traytors and Rebels; and however they would colour their doings with fair pre<g ref="char:EOLhyphen"/>tences, under the cloak of the Covenant wre<g ref="char:EOLhyphen"/>sted and abused; yet have they miserably wa<g ref="char:EOLhyphen"/>sted some part of Cumberland and Westmer<g ref="char:EOLhyphen"/>land already, driving away all their goods, and stripping men and women of all they call'd theirs, and intending, as appears, (if not spee<g ref="char:EOLhyphen"/>dily prevented) to enter into this County, and then no other can be expected, but that they wil in like sort rob and plunder, and carry or send away whatsoever is of value and movea<g ref="char:EOLhyphen"/>ble into Scotland, thereby to enrich them<g ref="char:EOLhyphen"/>selves: These are therefore in the Name and Power of God Almighty, our only Refuge and Rock of defence, to stir up and awaken all true-hearted English-men, especially of this County of York, to joyn together as one man, and to require every man above the age of sixteen, and under the age of threescore, unanimously and manfully forthwith to rise
+<pb n="8" facs="tcp:162114:5"/> and meet at the Quarters of Col. Cholmely and Col. Fairfax, or any the Quarters of the Parliaments Forces within this County, where divers well affected Gentry will meet, joyn, and help to put into an orderly way the Forces raised for the bearing back of this incroaching Ene<g ref="char:EOLhyphen"/>my, and the suppressing of this horrid Rebellion and Invasion, which intends no less then reducing of our persons to slavery, and our Estates to their wills, and the subversion and subjection of this Kingdom. And all such as shall so rife and joyn, are desired to furnish themselves with the best weapons they have or can get upon the sudden, and to carry with them ten days Pro<g ref="char:EOLhyphen"/>vision and Victuals. And the seasonable performance hereof is expected from all the well-affected English, (as in old time when the Scotish Incursions were fre<g ref="char:EOLhyphen"/>quently repulsed by the Valour and Courage of these Northern Parts,) as they tender the safety of their Wives and Children from the Rapine and cruelty of the Enemy, their Estates and Goods from Plunder and Devastation, and the very Being and Welfare of this whole Kingdom from utt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Ruine and Desolati<g ref="char:EOLhyphen"/>on: And such as shall be negligent herein, will be looked upon as persons ill-affected to this Kingdom and their Countries good. And this our Declaration is ordered to be published in all Parish-Churches in this County the next Lords Day after the receit here<g ref="char:EOLhyphen"/>of, by the Ministers and Churchwardens of each Pa<g ref="char:EOLhyphen"/>rish, at their Perils, as also in the open Markets by the Head▪ Officers.</p>
+            <closer>
+               <dateline>Given at <hi>York</hi>
+                  <date>the second day of <hi>Aug. 1648.</hi>
+                  </date>
+               </dateline>
+               <signed>Signed by the Authority, and in the name of the Committee for the Militia abovesaid. T. Darcy.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
